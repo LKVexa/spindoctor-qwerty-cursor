@@ -1,0 +1,21 @@
+{
+  "name": "spindoctor-qwerty",
+  "version": "1.1.0",
+  "description": "Cursor plugin for the SpinDoctor 3.1.2 quantum-circuit SIMULATOR: skill, rule, agent, 4 commands and a local MCP server; 1-298 logical qubits, 241 presets, q.folder, theory testing, TXT/PDF/JSON/CSV reports. Classical FP64 simulation, not a quantum computer.",
+  "author": {
+    "name": "RUSSELL PHILIP SMITHSON",
+    "email": "russellsmithson77@outlook.com"
+  },
+  "homepage": "https://github.com/LKVexa/spindoctor-qwerty-cursor",
+  "repository": "https://github.com/LKVexa/spindoctor-qwerty-cursor",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "quantum",
+    "quantum-circuit",
+    "simulator",
+    "spindoctor",
+    "cursor",
+    "mcp",
+    "qwerty"
+  ]
+}
